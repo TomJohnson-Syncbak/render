@@ -1,0 +1,7 @@
+digraph G {
+label="Example graph";
+Node1 [color=sienna];
+Node2;
+Node1 -> Node2  [ dir=both ]
+}
+
